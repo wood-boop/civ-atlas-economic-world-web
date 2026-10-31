@@ -1,0 +1,17 @@
+{
+  "generatorVersion": 46,
+  "version": "1.3.0-economy.3",
+  "sourceCommit": "b7ac952651eda4f7808532b238ecd63b71479369",
+  "sourceTree": "7cf79861b6cc507178e6a400493e7ffeafc0bda2",
+  "economicBaseCommit": "9a29fe6a26313304ec95e919752e9ca0f0a81fa8",
+  "filename": "civ-atlas-v46-source.zip",
+  "bytes": 21365102,
+  "sha256": "442d5e14a12fe2e527caf26c0303f8923ef1568e3ff1aba3773c4c88e6e70eb0",
+  "excluded": [
+    ".github/readme promotional screenshots"
+  ],
+  "license": "AGPL-3.0-only",
+  "publicUrl": "https://wood-boop.github.io/civ-atlas-economic-world-web/",
+  "sourceRepository": "https://github.com/wood-boop/civ-atlas-economic-world",
+  "purpose": "Static v46 publication; complete corresponding source is in source/"
+}
